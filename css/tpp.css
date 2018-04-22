@@ -1,0 +1,217 @@
+#mapwrapper{
+  padding:0;
+}
+
+#map {
+  position: relative;
+  width: 2000px;
+  min-height: 580px;
+  max-width: 96%;
+  max-height: 100%;
+  margin-right: 2%;
+  margin-left: 2%;
+}
+
+@media (min-width: 768px) {
+  #map {
+    position: relative;
+    width: 2000px;
+    min-height: 580px;
+    max-width: 100%;
+    max-height: 100%;
+    margin: 0;
+  }
+}
+
+.leaflet-routing-container-hide .leaflet-routing-collapse-btn {
+    position: absolute;
+}
+
+    .leaflet-routing-alt table {
+      font-size:14px;
+      font-family: "Open Sans",Arial;
+      border-collapse: collapse;
+    }
+
+    .leaflet-routing-alt tr{
+      min-height:40px;
+      height:40px;
+      border-bottom:1px solid #eee;
+    }
+
+    .leaflet-routing-alt tr:hover {
+        background-color: #eee;
+        cursor: pointer;
+    }
+
+    .leaflet-routing-alt::-webkit-scrollbar {
+      width: 8px;
+  }
+
+  .leaflet-routing-alt::-webkit-scrollbar-track {
+      border-radius: 2px;
+      background-color: #eee;
+  }
+
+  .leaflet-routing-alt::-webkit-scrollbar-thumb {
+      border-radius: 2px;
+      background-color: #888;
+  }
+
+    .leaflet-routing-alt tr:last-child{
+      border-bottom: 0px;
+    }
+
+    .leaflet-routing-alt td.guide {
+      width: 100%;
+      padding-left: 10px;
+      padding-right: 10px;
+    }
+
+    .leaflet-routing-alt td.measure {
+      min-width:10px;
+    }
+
+    .leaflet-routing-alt td.text {
+      border: 0;
+      border-top: 1px solid #A4A4A4;
+      border-bottom: 1px solid #A4A4A4;
+    }
+
+    .leaflet-routing-alt ul.depart_instr, ul.arrive_instr {
+      color: #8A0808;
+      font-size: 10px;
+      margin-left: -40px;
+      margin-top: 3px;
+      margin-right: 0px;
+      margin-bottom: 3px;
+      font-weight: bold;
+    }
+
+    .leaflet-routing-alt::-webkit-scrollbar {
+      width: 8px;
+    }
+
+    .leaflet-routing-alt::-webkit-scrollbar-track {
+      border-radius: 2px;
+      background-color: #eee;
+    }
+
+    .leaflet-routing-alt::-webkit-scrollbar-thumb {
+      border-radius: 2px;
+      background-color: #888;
+    }
+
+.leaflet-routing-geocoder-result table {
+    font-size: 12px;
+    cursor: pointer;
+}
+
+    .start-dest-choice {
+      width: 155px;
+    }
+
+    .start-dest-btn {
+      margin: 5px;
+    }
+
+@media (max-width: 768px) {
+  .leaflet-routing-collapse-btn {
+    position: absolute;
+    top: -4px;
+  }
+}
+
+.badges .row {
+  display: contents;
+}
+
+section.download .badges .badge-link {
+  margin-bottom: 0;
+  display: initial;
+}
+
+section.download .badges .badge-link:last-child {
+  margin-bottom: 0;
+  display: initial;
+}
+
+@media (min-width: 768px) {
+  img.badge-link.agency {
+    max-height: 65px;
+    vertical-align: middle;
+  }
+}
+
+img.badge-link.agency {
+  max-width: 32%;
+  vertical-align: middle;
+}
+
+small.agency-logos {
+  font-size: 8px;
+  line-height: 8px;
+}
+
+#mainNav.navbar a svg g#tpplogo path#path2 {
+  fill: #0091ff;
+}
+
+#mainNav.navbar a svg g#tpplogo path#path4 {
+  fill: #ef7c24;
+}
+
+@media (min-width: 992px) {
+  #mainNav.navbar a svg g#tpplogo path#path2 {
+    fill: #ffffff;
+  }
+
+  #mainNav.navbar a svg g#tpplogo path#path4 {
+    fill: #0091ff;
+  }
+
+  #mainNav.navbar.navbar-shrink a svg g#tpplogo path#path2 {
+    fill: #0091ff;
+  }
+
+    #mainNav.navbar.navbar-shrink a svg g#tpplogo path#path4 {
+    fill: #ef7c24;
+  }
+}
+
+section#app{
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+section.contact ul.list-social li a {
+  margin-bottom: 10px;
+}
+
+section.contact ul.list-social li.social-github a {
+  background-color: #4d4d4d;
+}
+
+section.contact ul.list-social li.social-github a:hover {
+  background-color: #3c3c3c;
+}
+
+section.contact ul.list-social li.social-slack a {
+  background-color: #56b68b;
+}
+
+section.contact ul.list-social li.social-slack a:hover {
+  background-color: #50a47e;
+}
+
+section.contact ul.list-social li.social-envelope a {
+  background-color: #f46e42;
+}
+
+section.contact ul.list-social li.social-envelope a:hover {
+  background-color: #f46130;
+}
+
+button.leaflet-routing-add-waypoint {
+  display: none;
+}

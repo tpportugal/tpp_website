@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   height="7.8273578cm"
+   width="17cm"
+   xml:space="preserve"
+   viewBox="0 0 642.51968 295.83714"
+   y="0px"
+   x="0px"
+   id="Camada_1"
+   version="1.1"><metadata
+   id="metadata14"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs12" />
+<style
+   id="style2"
+   type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;}
+</style>
+<g
+   transform="matrix(1.0423407,0,0,1.0423407,37.795276,37.795276)"
+   id="XMLID_5861_">
+	<path
+   style="clip-rule:evenodd;fill-rule:evenodd;fill:#e20816;fill-opacity:1"
+   d="m 189,88.9 h -49.7 c -15.1,0 -27.3,12.2 -27.3,27.3 v 95.1 H 75.5 v -96.5 c 0,-34.9 28.3,-63.1 63.1,-63.1 H 189 Z"
+   class="st0"
+   id="XMLID_5862_" />
+	<path
+   style="clip-rule:evenodd;fill-rule:evenodd;fill:#e20816;fill-opacity:1"
+   d="M 0,51.8 H 105.3 C 89.5,59 77.2,72.6 71.7,89.3 H 0 Z"
+   class="st0"
+   id="XMLID_5863_" />
+	<path
+   style="clip-rule:evenodd;fill-rule:evenodd;fill:#017bb5;fill-opacity:1"
+   d="m 409.4,51.8 h -16 c -34.9,0 -63.1,28.3 -63.1,63.1 l -0.1,34.3 c 0,14.3 -11.8,25.8 -26.4,25.8 -14.6,0 -26.4,-11.6 -26.4,-25.8 l 0.3,-34.3 C 277.7,80 249.4,51.8 214.6,51.8 h -16 V 88.9 H 214 c 15.1,0 27.3,12.2 27.3,27.3 l -0.2,32.2 c 0,34.8 27.7,62.9 62.4,62.9 34.8,0 62.9,-28.2 62.9,-62.9 l -0.2,-32.2 c 0,-15.1 12.2,-27.3 27.3,-27.3 h 15.4 z"
+   class="st0"
+   id="XMLID_5864_" />
+	<path
+   style="clip-rule:evenodd;fill-rule:evenodd;fill:#017bb5;fill-opacity:1"
+   d="m 418.6,148.4 c 0,34.8 27.7,62.9 62.4,62.9 34.8,0 62.9,-28.2 62.9,-62.9 v -33.7 c 0,-34.8 -27.7,-62.9 -62.4,-62.9 H 454.7 V 0 h -36.5 v 96.5 c 0.1,26 0.4,51.9 0.4,51.9 z m 36.1,-59.2 h 25.7 c 15.1,0 27.3,12.2 27.3,27.3 V 148 c 0,15.1 -11.9,27.3 -26.5,27.3 -14.6,0 -26.5,-12.2 -26.5,-27.3 z"
+   class="st0"
+   id="XMLID_5865_" />
+</g>
+</svg>
